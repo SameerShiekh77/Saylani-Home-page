@@ -1,0 +1,887 @@
+#menu {
+    position: relative;
+    top: -1em;
+    left: 3.5em;
+    width: fit-content;
+    margin-left: 7em;
+    margin-bottom: -2rem;
+    /* height: fit-content; */
+}
+
+.navigation:hover {
+    color: white;
+    background-color: royalblue;
+}
+
+.navigation:focus {
+    color: white;
+    background-color: royalblue;
+}
+
+.dropdown:hover>.dropdown-menu {
+    display: block;
+}
+
+#sml {
+    position: relative;
+    left: 32em;
+}
+
+@media only screen and (max-width: 576px) {
+    #sml {
+        position: relative;
+        left: 12em;
+    }
+}
+
+@media only screen and (min-width: 576px) and (max-width:768px) {
+    #sml {
+        position: relative;
+        left: 13em;
+    }
+}
+
+@media only screen and (min-width: 768px) and (max-width:992px) {
+    #sml {
+        position: relative;
+        left: 19em;
+    }
+}
+
+@media only screen and (min-width: 992px) and (max-width:1200px) {
+    #sml {
+        position: relative;
+        left: 26em;
+    }
+}
+
+.counter {
+    background-color: royalblue;
+    height: 20em;
+    /* border: 2px solid pink; */
+}
+
+.counter-box {
+    display: flex;
+}
+
+.first {
+    /* border: 2px solid red; */
+    width: 25%;
+    /* margin-left: 10px; */
+    position: relative;
+    left: 0em;
+    top: 6em;
+}
+
+.dinner {
+    position: relative;
+    left: 8em;
+    top: 1em;
+}
+
+#first {
+    position: relative;
+    left: 2em;
+    top: 0.5em;
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30pt;
+    color: white;
+}
+
+.join {
+    margin-top: 24px;
+}
+
+.work {
+    color: white;
+}
+
+.month {
+    color: chartreuse;
+}
+
+.second {
+    /* border: 2px solid green; */
+    width: 25%;
+    /* margin-left: 5px; */
+    position: relative;
+    left: 0em;
+    top: 6em;
+}
+
+.fam {
+    position: relative;
+    left: 8em;
+    top: 1em;
+}
+
+#second {
+    position: relative;
+    left: 2.5em;
+    top: 0.5em;
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30pt;
+    color: white;
+}
+
+.joined {
+    margin-top: 24px;
+    padding-left: 26px;
+}
+
+.third {
+    /* border: 2px solid violet; */
+    width: 25%;
+    /* margin-left: 2px; */
+    position: relative;
+    left: 0em;
+    top: 6em;
+}
+
+.medimg {
+    position: relative;
+    left: 8em;
+    top: 1em;
+}
+
+#third {
+    position: relative;
+    left: 2.5em;
+    top: 0.5em;
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30pt;
+    color: white;
+}
+
+.combine {
+    margin-top: 24px;
+    padding-left: 4em;
+}
+
+.fourth {
+    /* border: 2px solid orange; */
+    width: 25%;
+    /* margin-left: 2px; */
+    position: relative;
+    left: 0em;
+    top: 6em;
+}
+
+.edu {
+    position: relative;
+    left: 8em;
+    top: 1em;
+}
+
+#fourth {
+    position: relative;
+    left: 0.5em;
+    top: 0.5em;
+    padding-left: 2em;
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30pt;
+    color: white;
+}
+
+.combined {
+    margin-top: 24px;
+    padding-left: 4em;
+}
+
+
+/* WHAT WE ARE DOING? */
+
+.what-we-sec {
+    background-color: whitesmoke;
+    position: absolute;
+    top: 95em;
+    height: 43em;
+    width: 100%;
+    padding: 10px 5px 6px 10px;
+}
+
+.heading {
+    position: absolute;
+    left: 29em;
+    top: 3em;
+}
+
+.what {
+    color: royalblue;
+    font-size: 32pt;
+    font-family: serif;
+    /* margin: 10px 20px 10px; */
+}
+
+.are {
+    color: darkgreen;
+    font-size: 32pt;
+    font-family: serif;
+    /* position: absolute;
+    left: 16em;
+    top: 1em; */
+    /* top: 0.5em; */
+}
+
+p#startline {
+    color: green;
+    position: absolute;
+    top: 9em;
+    left: 39em;
+    width: fit-content;
+    font-weight: bold;
+    /* background-color: yellow; */
+    z-index: 1;
+    /* margin: 0px 5px; */
+    padding: 5px 0px 0px 0px;
+}
+
+p#endline {
+    color: green;
+    position: absolute;
+    top: 9em;
+    left: 44.5em;
+    width: fit-content;
+    font-weight: bold;
+    /* background-color: yellow; */
+    z-index: 1;
+    margin: 0px 5px;
+    padding: 5px 0px 0px 0px;
+}
+
+img#small {
+    height: 50px;
+    max-width: 100%;
+    /* vertical-align: middle; */
+    border: 0;
+    z-index: 1;
+    position: absolute;
+    top: 8em;
+    left: 42em;
+}
+
+#one {
+    box-sizing: content-box;
+    border: none;
+    background-color: white;
+    padding: 5px 0px 5px 0px;
+    /* margin: 0px auto; */
+    width: 370px;
+    height: 170px;
+    position: absolute;
+    left: 4em;
+    top: 14em;
+    box-shadow: 5px 5px 7px #888888;
+}
+
+#online {
+    position: absolute;
+    left: 10em;
+    top: 2em;
+    cursor: pointer;
+}
+
+h4.online {
+    color: royalblue;
+    margin: 20px 0px 10px;
+    font-family: serif;
+    font-size: 18px;
+    position: absolute;
+    left: 6.5em;
+    top: 6em;
+}
+
+#two {
+    box-sizing: content-box;
+    border: none;
+    background-color: white;
+    padding: 5px 0px 5px 0px;
+    /* margin: 0px auto; */
+    width: 370px;
+    height: 170px;
+    position: absolute;
+    left: 30em;
+    top: 14em;
+    box-shadow: 5px 5px 7px #888888;
+}
+
+#welf {
+    position: absolute;
+    left: 10em;
+    top: 2em;
+    cursor: pointer;
+}
+
+h4.welf {
+    color: royalblue;
+    margin: 20px 0px 10px;
+    font-family: serif;
+    font-size: 18px;
+    position: absolute;
+    left: 8em;
+    top: 6em;
+}
+
+#three {
+    box-sizing: content-box;
+    border: none;
+    background-color: white;
+    padding: 5px 0px 5px 0px;
+    /* margin: 0px auto; */
+    width: 370px;
+    height: 170px;
+    position: absolute;
+    left: 56em;
+    top: 14em;
+    box-shadow: 5px 5px 7px #888888;
+}
+
+#med {
+    position: absolute;
+    left: 10em;
+    top: 2em;
+    cursor: pointer;
+}
+
+h4.med {
+    color: royalblue;
+    margin: 20px 0px 10px;
+    font-family: serif;
+    font-size: 18px;
+    position: absolute;
+    left: 8em;
+    top: 6em;
+}
+
+#four {
+    box-sizing: content-box;
+    border: none;
+    background-color: white;
+    padding: 5px 0px 5px 0px;
+    /* margin: 0px auto; */
+    width: 370px;
+    height: 170px;
+    position: absolute;
+    left: 4em;
+    top: 28em;
+    box-shadow: 5px 5px 7px #888888;
+}
+
+#dast {
+    position: absolute;
+    left: 10em;
+    top: 2em;
+    cursor: pointer;
+}
+
+h4.dast {
+    color: royalblue;
+    margin: 20px 0px 10px;
+    font-family: serif;
+    font-size: 18px;
+    position: absolute;
+    left: 7em;
+    top: 6em;
+}
+
+#five {
+    box-sizing: content-box;
+    border: none;
+    background-color: white;
+    padding: 5px 0px 5px 0px;
+    /* margin: 0px auto; */
+    width: 370px;
+    height: 170px;
+    position: absolute;
+    left: 30em;
+    top: 28em;
+    box-shadow: 5px 5px 7px #888888;
+}
+
+#ro {
+    position: absolute;
+    left: 10em;
+    top: 2em;
+    cursor: pointer;
+}
+
+h4.ro {
+    color: royalblue;
+    margin: 20px 0px 10px;
+    font-family: serif;
+    font-size: 18px;
+    position: absolute;
+    left: 8em;
+    top: 6em;
+}
+
+#six {
+    box-sizing: content-box;
+    border: none;
+    background-color: white;
+    padding: 5px 0px 5px 0px;
+    /* margin: 0px auto; */
+    width: 370px;
+    height: 170px;
+    position: absolute;
+    left: 56em;
+    top: 28em;
+    box-shadow: 5px 5px 7px #888888;
+}
+
+#edu {
+    position: absolute;
+    left: 10em;
+    top: 2em;
+    cursor: pointer;
+}
+
+h4.educat {
+    color: royalblue;
+    margin: 20px 0px 10px;
+    font-family: serif;
+    font-size: 18px;
+    position: absolute;
+    left: 8em;
+    top: 6em;
+}
+
+
+/* MISSION AND UPCOMING PROJECTS */
+
+.half {
+    /* border: 2px solid red; */
+    background-color: white;
+    width: 70%;
+    position: absolute;
+    top: 138em;
+    height: 25em;
+    padding: 10px 5px 6px 10px;
+}
+
+.mission {
+    color: royalblue;
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+    position: absolute;
+    top: 2em;
+    left: 2em;
+}
+
+p.lines {
+    color: green;
+    position: absolute;
+    top: 5em;
+    left: 3em;
+    width: fit-content;
+    /* height: 2em; */
+    font-weight: bold;
+    /* background-color: yellow; */
+    z-index: 1;
+    /* margin: 0px 5px; */
+    /* padding: 4px 2px 2px 0px; */
+}
+
+.one {
+    box-sizing: content-box;
+    border: 1px solid silver;
+    background-color: whitesmoke;
+    padding: 5px 0px 5px 0px;
+    /* margin: 0px auto; */
+    width: 350px;
+    height: 70px;
+    position: absolute;
+    left: 3em;
+    top: 8em;
+    /* box-shadow: 5px 5px 7px #888888; */
+}
+
+#heart {
+    position: absolute;
+    top: 1em;
+    cursor: pointer;
+    left: 1em;
+}
+
+h4.heart {
+    position: absolute;
+    top: 0.2em;
+    left: 4em;
+    font-size: 19px;
+    color: royalblue;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.two {
+    box-sizing: content-box;
+    border: 1px solid silver;
+    background-color: whitesmoke;
+    padding: 5px 0px 5px 0px;
+    /* margin: 0px auto; */
+    width: 350px;
+    height: 70px;
+    position: absolute;
+    left: 27em;
+    top: 8em;
+    /* box-shadow: 5px 5px 7px #888888; */
+}
+
+#house {
+    position: absolute;
+    top: 1em;
+    cursor: pointer;
+    left: 1em;
+}
+
+h4.house {
+    position: absolute;
+    top: 0.2em;
+    left: 4em;
+    font-size: 19px;
+    color: royalblue;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.three {
+    box-sizing: content-box;
+    border: 1px solid silver;
+    background-color: whitesmoke;
+    padding: 5px 0px 5px 0px;
+    /* margin: 0px auto; */
+    width: 350px;
+    height: 70px;
+    position: absolute;
+    left: 3em;
+    top: 15em;
+    /* box-shadow: 5px 5px 7px #888888; */
+}
+
+#it {
+    position: absolute;
+    top: 1em;
+    left: 1em;
+    cursor: pointer;
+}
+
+h4.it {
+    position: absolute;
+    top: 0.2em;
+    left: 4em;
+    font-size: 19px;
+    color: royalblue;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.four {
+    box-sizing: content-box;
+    border: 1px solid silver;
+    background-color: whitesmoke;
+    padding: 5px 0px 5px 0px;
+    /* margin: 0px auto; */
+    width: 350px;
+    height: 70px;
+    position: absolute;
+    left: 27em;
+    top: 15em;
+    /* box-shadow: 5px 5px 7px #888888; */
+}
+
+#thar {
+    position: absolute;
+    top: 1em;
+    left: 1em;
+    cursor: pointer;
+}
+
+h4.thar {
+    position: absolute;
+    top: 0.2em;
+    left: 4em;
+    font-size: 19px;
+    color: royalblue;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+/* UPCOMING EVENTS */
+
+#half {
+    background-color: white;
+    width: 27%;
+    /* border: 2px solid purple; */
+    position: relative;
+    top: 49.5em;
+    left: 60em;
+    height: 12em;
+    padding: 10px 5px 6px 10px;
+}
+
+h3.up {
+    color: royalblue;
+    font-size: 26px;
+    font-family: 'Times New Roman', Times, serif;
+    position: absolute;
+    top: 0.5em;
+    left: 37em;
+}
+
+p.endlines {
+    color: green;
+    position: absolute;
+    top: 5em;
+    /* background-color: white; */
+    left: 61em;
+    width: fit-content;
+    /* height: 2em; */
+    font-weight: bolder;
+    /* background-color: yellow; */
+    z-index: 1;
+    /* margin: 0px 5px; */
+    /* padding: 4px 2px 2px 0px; */
+}
+
+p.lightline {
+    color: silver;
+    position: absolute;
+    top: 5em;
+    background-color: silever;
+    left: 64em;
+    width: fit-content;
+    /* height: 2em; */
+    font-weight: lighter;
+    /* background-color: yellow; */
+    z-index: 1;
+    /* margin: 0px 5px; */
+    /* padding: 4px 2px 2px 0px; */
+}
+
+.marq {
+    position: absolute;
+    top: 0em;
+    color: silver;
+    background-color: white;
+}
+
+.more {
+    text-decoration: none;
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+    cursor: pointer;
+}
+
+
+/* IMAGE GALLERY */
+
+#imggal {
+    border: 2px solid rgb(119, 75, 75);
+    background-color: white;
+}
+
+#combine {
+    width: 100%;
+    height: 26em;
+    position: absolute;
+    top: 163em;
+    left: 0em;
+    /* border: 1px solid violet; */
+}
+
+#img {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 32pt;
+    color: royalblue;
+    background-color: white;
+    position: absolute;
+    top: 1em;
+    left: 12em;
+}
+
+#gal {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 32pt;
+    color: green;
+    background-color: white;
+    position: absolute;
+    top: 1em;
+    left: 15.5em;
+}
+
+p#begline {
+    color: green;
+    position: absolute;
+    top: 10em;
+    left: 37em;
+    width: fit-content;
+    font-weight: bold;
+    /* background-color: yellow; */
+    z-index: 1;
+    /* margin: 0px 5px; */
+    padding: 5px 0px 0px 0px;
+}
+
+p#lastline {
+    color: green;
+    position: absolute;
+    top: 10em;
+    left: 45.5em;
+    width: fit-content;
+    font-weight: bold;
+    /* background-color: yellow; */
+    z-index: 1;
+    margin: 0px 5px;
+    padding: 5px 0px 0px 0px;
+}
+
+img#pic {
+    height: 50px;
+    max-width: 100%;
+    /* vertical-align: middle; */
+    border: 0;
+    z-index: 1;
+    position: absolute;
+    top: 9em;
+    left: 41em;
+}
+
+.imagegallery {
+    width: 84%;
+    height: 10em;
+    position: absolute;
+    top: 14em;
+    left: 10%;
+    right: 10%;
+    display: flex;
+}
+
+
+/* BLACK BOX */
+
+.blackcontainer {
+    background-color: #25272E;
+    /* border: 1px solid green; */
+    width: 100%;
+    height: 27em;
+    position: absolute;
+    top: 189em;
+}
+
+.head {
+    color: #bbbbbb;
+    font-size: 14px;
+    font-family: 'Times New Roman', Times, serif;
+    position: absolute;
+    top: 8em;
+    left: 9em;
+    width: 25%;
+    height: 20em;
+    /* border: 1px solid yellow; */
+}
+
+.links {
+    position: absolute;
+    top: 7em;
+    left: 35em;
+    /* border: 1px solid red; */
+    width: 30%;
+    height: 5em;
+}
+
+#links {
+    font-size: 18px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    position: absolute;
+    top: -1em;
+    left: 1em;
+}
+
+p.lightlines {
+    position: absolute;
+    left: 3.4em;
+    top: 1em;
+    color: silver;
+}
+
+p.endli {
+    position: absolute;
+    left: 0em;
+    top: 1em;
+    font-weight: bold;
+    color: green;
+}
+
+.connect {
+    /* background-color: #25272E; */
+    /* border: 1px solid green; */
+    position: absolute;
+    top: 7em;
+    left: 62em;
+    width: 20%;
+    height: 8em;
+}
+
+#connect {
+    color: white;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    position: absolute;
+    top: -1em;
+    left: 1em;
+}
+
+a#facebook {
+    position: absolute;
+    left: 2em;
+    top: 3em;
+    /* background-color: royalblue; */
+}
+
+a#twite {
+    position: absolute;
+    left: 4em;
+    top: 3em;
+    /* background-color: royalblue; */
+}
+
+a {
+    cursor: pointer;
+}
+
+a#instagram {
+    position: absolute;
+    left: 6em;
+    top: 3em;
+    /* background-color: royalblue; */
+}
+
+a#yt {
+    position: absolute;
+    left: 8em;
+    top: 3em;
+    /* background-color: royalblue; */
+}
+
+
+/* COPYRIGHT */
+
+.lastbox {
+    /* border: 1px solid red; */
+    background-color: royalblue;
+    width: 100%;
+    height: 3em;
+    position: absolute;
+    top: 216em;
+}
+
+#copyright {
+    color: white;
+    font-size: 13px;
+    position: absolute;
+    left: 9em;
+    top: 0em;
+}

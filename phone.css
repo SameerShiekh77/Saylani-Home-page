@@ -1,0 +1,1364 @@
+@media only screen and (max-width: 576px) {
+    #sml {
+        position: relative;
+        left: 12em;
+    }
+    .counter-box {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .counter {
+        height: 56em;
+    }
+    .first,
+    .second,
+    .third,
+    .fourth {
+        margin: 25px 5px;
+        box-sizing: border-box;
+        width: 94%;
+    }
+    .join {
+        margin-top: 24px;
+        margin-left: 5em;
+    }
+    #first {
+        position: relative;
+        left: 4em;
+    }
+    .dinner {
+        position: relative;
+        left: 13em;
+        top: 1em;
+    }
+    .fam {
+        position: relative;
+        left: 12em;
+    }
+    #second,
+    #third {
+        position: relative;
+        left: 4.5em;
+    }
+    .joined {
+        margin-top: 24px;
+        padding-left: 6em;
+    }
+    .medimg {
+        position: relative;
+        left: 13em;
+        top: 1em;
+    }
+    .combine {
+        margin-top: 24px;
+        padding-left: 9em;
+    }
+    .edu {
+        position: relative;
+        left: 12em;
+        top: 1em;
+    }
+    #fourth {
+        position: relative;
+        left: 1.5em;
+    }
+    .combined {
+        margin-top: 24px;
+        padding-left: 8em;
+    }
+    .navbar-light .navbar-toggler-icon {
+        position: relative;
+        left: 0em;
+    }
+    .navbar-light .navbar-toggler {
+        position: relative;
+        left: 5em;
+    }
+    .what-we-sec {
+        background-color: whitesmoke;
+        position: absolute;
+        top: 161em;
+        height: 94em;
+        width: 114%;
+        /* border: 2px solid red; */
+        padding: 10px 5px 6px 10px;
+    }
+    .heading {
+        position: absolute;
+        left: 1em;
+        top: 3em;
+    }
+    img#small {
+        position: absolute;
+        left: 13em;
+    }
+    p#startline {
+        position: absolute;
+        left: 10em;
+    }
+    p#endline {
+        position: absolute;
+        left: 16em;
+    }
+    #two {
+        position: absolute;
+        left: 4em;
+        top: 27em;
+    }
+    #three {
+        position: absolute;
+        left: 4em;
+        top: 40em;
+    }
+    #four {
+        position: absolute;
+        left: 4em;
+        top: 53em;
+    }
+    #five {
+        position: absolute;
+        left: 4em;
+        top: 66em;
+    }
+    #six {
+        position: absolute;
+        left: 4em;
+        top: 79em;
+    }
+    /* MISSIONS AND UPCOMING PROJECTS */
+    .half {
+        /* border: 2px solid red; */
+        width: 100%;
+        position: absolute;
+        top: 255em;
+        height: 54em;
+        padding: 10px 5px 6px 10px;
+    }
+    p.endlines {
+        position: absolute;
+        left: 3em;
+    }
+    .two {
+        position: absolute;
+        top: 15em;
+        left: 3em;
+    }
+    .three {
+        position: absolute;
+        top: 22em;
+        left: 3em;
+    }
+    .four {
+        position: absolute;
+        top: 29em;
+        left: 3em;
+    }
+    h4.heart {
+        position: absolute;
+        top: 1em;
+        left: 4em;
+        font-size: 23px;
+    }
+    h4.house {
+        position: absolute;
+        top: 1em;
+        left: 4em;
+        font-size: 23px;
+    }
+    h4.it {
+        position: absolute;
+        top: 1em;
+        left: 4em;
+        font-size: 23px;
+    }
+    h4.thar {
+        position: absolute;
+        top: 1em;
+        left: 4em;
+        font-size: 23px;
+    }
+    h3.up {
+        font-size: 2rem;
+        position: absolute;
+        top: 18em;
+        left: 3em;
+    }
+    p.lines {
+        position: absolute;
+        top: 39em;
+        left: 6em;
+    }
+    p.lightline {
+        position: absolute;
+        top: 39em;
+        left: 9em;
+    }
+    #half {
+        width: 70%;
+        /* border: 2px solid purple; */
+        position: relative;
+        top: 124em;
+        left: 5em;
+    }
+    /* IMAGE GALLERY */
+    #imggal {
+        border: 2px solid rgb(119, 75, 75);
+        background-color: white;
+    }
+    #combine {
+        width: 100%;
+        height: 62em;
+        position: absolute;
+        top: 309em;
+        left: 0em;
+        /* border: 1px solid violet; */
+    }
+    #img {
+        position: absolute;
+        top: 1em;
+        left: 2em;
+    }
+    #gal {
+        position: absolute;
+        top: 1em;
+        left: 5.5em;
+    }
+    p#begline {
+        position: absolute;
+        top: 8em;
+        left: 10em;
+    }
+    p#lastline {
+        position: absolute;
+        top: 8em;
+        left: 17em;
+    }
+    img#pic {
+        position: absolute;
+        top: 8em;
+        left: 13em;
+    }
+    .imagegallery {
+        position: absolute;
+        top: 14em;
+        left: 24%;
+        display: flex;
+        flex-direction: column;
+    }
+    /* BLACK BOX */
+    .blackcontainer {
+        background-color: #25272E;
+        border: 1px solid green;
+        width: 100%;
+        height: 41em;
+        position: absolute;
+        top: 371em;
+    }
+    .head {
+        width: 75%;
+        position: absolute;
+        left: 5em;
+    }
+    .links {
+        position: absolute;
+        top: 28em;
+        left: 3em;
+        /* border: 1px solid red; */
+        width: 73%;
+        height: 5em;
+    }
+    #links {
+        position: relative;
+        top: 0em;
+        left: 1em;
+    }
+    p.endli {
+        position: relative;
+        left: 0em;
+        top: 0em;
+    }
+    p.lightlines {
+        position: relative;
+        left: 4em;
+        top: -2.5em;
+    }
+    .connect {
+        position: absolute;
+        top: 34em;
+        left: 3em;
+        width: 39%;
+        height: 6em;
+    }
+    #connect {
+        color: white;
+        font-size: 18px;
+        font-family: 'Times New Roman', Times, serif;
+        position: absolute;
+        top: -1em;
+        left: 1em;
+    }
+    a#facebook {
+        position: absolute;
+        left: 2em;
+        top: 3em;
+        /* background-color: royalblue; */
+    }
+    a#twite {
+        position: absolute;
+        left: 4em;
+        top: 3em;
+        /* background-color: royalblue; */
+    }
+    a {
+        cursor: pointer;
+    }
+    a#instagram {
+        position: absolute;
+        left: 6em;
+        top: 3em;
+        /* background-color: royalblue; */
+    }
+    a#yt {
+        position: absolute;
+        left: 8em;
+        top: 3em;
+        /* background-color: royalblue; */
+    }
+    /* COPY RIGHT*/
+    .lastbox {
+        /* border: 1px solid red; */
+        background-color: royalblue;
+        width: 100%;
+        height: 3em;
+        position: absolute;
+        top: 412em;
+    }
+    #copyright {
+        color: white;
+        font-size: 13px;
+        position: absolute;
+        left: 9em;
+        top: 0em;
+    }
+}
+
+@media only screen and (min-width: 576px) and (max-width:768px) {
+    #sml {
+        position: relative;
+        left: 13em;
+    }
+    .counter-box {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .counter {
+        height: 56em;
+    }
+    .first,
+    .second,
+    .third,
+    .fourth {
+        margin: 25px 5px;
+        box-sizing: border-box;
+        width: 50%;
+    }
+    .join,
+    .joined {
+        margin-left: 3em;
+    }
+    .navbar-light .navbar-toggler-icon {
+        position: relative;
+        left: 0em;
+    }
+    .navbar-light .navbar-toggler {
+        position: relative;
+        left: 13em;
+    }
+    .what-we-sec {
+        background-color: whitesmoke;
+        position: absolute;
+        top: 154em;
+        height: 54em;
+        width: 114%;
+        /* border: 2px solid red; */
+        padding: 10px 5px 6px 10px;
+    }
+    .heading {
+        position: absolute;
+        left: 9em;
+        top: 3em;
+    }
+    img#small {
+        position: absolute;
+        left: 21em;
+    }
+    p#startline {
+        position: absolute;
+        left: 18em;
+    }
+    p#endline {
+        position: absolute;
+        left: 24em;
+    }
+    #one {
+        position: absolute;
+        left: 1em;
+        width: 21em;
+    }
+    #two {
+        position: absolute;
+        left: 23em;
+        width: 21em;
+    }
+    #three {
+        position: absolute;
+        left: 1em;
+        top: 27em;
+        width: 21em;
+    }
+    #four {
+        position: absolute;
+        left: 23em;
+        top: 27em;
+        width: 21em;
+    }
+    #five {
+        position: absolute;
+        left: 1em;
+        top: 40em;
+        width: 21em;
+    }
+    #six {
+        position: absolute;
+        left: 23em;
+        top: 40em;
+        width: 21em;
+    }
+    /* MISSIONS AND UPCOMING PROJECTS */
+    .half {
+        /* border: 2px solid red; */
+        width: 100%;
+        position: absolute;
+        top: 208em;
+        height: 42em;
+        padding: 10px 5px 6px 10px;
+    }
+    p.endlines {
+        position: absolute;
+        left: 3em;
+    }
+    .one {
+        position: absolute;
+        left: 2em;
+        width: 20em;
+    }
+    .two {
+        position: absolute;
+        width: 20em;
+        top: 8em;
+        left: 23em;
+    }
+    .three {
+        position: absolute;
+        width: 20em;
+        top: 14em;
+        left: 2em;
+    }
+    .four {
+        position: absolute;
+        width: 20em;
+        top: 14em;
+        left: 23em;
+    }
+    h4.heart {
+        position: absolute;
+        top: 1em;
+        left: 4em;
+        font-size: 23px;
+    }
+    h4.house {
+        position: absolute;
+        top: 1em;
+        left: 4em;
+        font-size: 23px;
+    }
+    h4.it {
+        position: absolute;
+        top: 1em;
+        left: 4em;
+        font-size: 23px;
+    }
+    h4.thar {
+        position: absolute;
+        top: 1em;
+        left: 4em;
+        font-size: 23px;
+    }
+    h3.up {
+        font-size: 3rem;
+        position: absolute;
+        top: 7em;
+        left: 4em;
+    }
+    p.lines {
+        position: absolute;
+        top: 25em;
+        left: 12em;
+    }
+    p.lightline {
+        position: absolute;
+        top: 25em;
+        left: 15em;
+    }
+    #half {
+        width: 49%;
+        /* border: 2px solid purple; */
+        position: relative;
+        top: 82em;
+        left: 12em;
+    }
+    /* IMAGE GALLERY */
+    #imggal {
+        /* border: 2px solid rgb(119, 75, 75); */
+        background-color: white;
+    }
+    #combine {
+        width: 100%;
+        height: 48em;
+        position: absolute;
+        top: 250em;
+        left: 0em;
+        /* border: 1px solid violet; */
+    }
+    #img {
+        position: absolute;
+        top: 1em;
+        left: 6em;
+    }
+    #gal {
+        position: absolute;
+        top: 1em;
+        left: 9.5em;
+    }
+    p#begline {
+        position: absolute;
+        top: 8em;
+        left: 20em;
+    }
+    p#lastline {
+        position: absolute;
+        top: 8em;
+        left: 26em;
+    }
+    img#pic {
+        position: absolute;
+        top: 8em;
+        left: 23em;
+    }
+    .rashan {
+        position: relative;
+        top: 0em;
+        left: 0%;
+    }
+    .food {
+        position: relative;
+        top: 0em;
+        left: 15%;
+    }
+    .hazrat {
+        position: absolute;
+        top: 11em;
+        left: 0%;
+    }
+    .food2 {
+        position: absolute;
+        top: 11em;
+        left: 52%;
+    }
+    .hazrat2 {
+        position: absolute;
+        top: 23em;
+        left: 10em;
+    }
+    /* BLACK BOX */
+    .blackcontainer {
+        background-color: #25272E;
+        /* border: 1px solid green; */
+        width: 100%;
+        height: 41em;
+        position: absolute;
+        top: 298em;
+    }
+    .head {
+        width: 100%;
+        /* border: 1px solid yellow; */
+    }
+    #links {
+        position: relative;
+        top: 19em;
+        left: -28em;
+    }
+    p.lightlines {
+        position: relative;
+        left: -28em;
+        top: 18.5em;
+    }
+    p.endli {
+        position: relative;
+        left: -31em;
+        top: 21em;
+    }
+    .connect {
+        position: absolute;
+        top: 34em;
+        left: 3em;
+        width: 39%;
+        height: 6em;
+    }
+    #connect {
+        color: white;
+        font-size: 18px;
+        font-family: 'Times New Roman', Times, serif;
+        position: absolute;
+        top: -1em;
+        left: 1em;
+    }
+    a#facebook {
+        position: absolute;
+        left: 2em;
+        top: 3em;
+        /* background-color: royalblue; */
+    }
+    a#twite {
+        position: absolute;
+        left: 4em;
+        top: 3em;
+        /* background-color: royalblue; */
+    }
+    a {
+        cursor: pointer;
+    }
+    a#instagram {
+        position: absolute;
+        left: 6em;
+        top: 3em;
+        /* background-color: royalblue; */
+    }
+    a#yt {
+        position: absolute;
+        left: 8em;
+        top: 3em;
+        /* background-color: royalblue; */
+    }
+    /* COPY RIGHT */
+    .lastbox {
+        /* border: 1px solid red; */
+        background-color: royalblue;
+        width: 100%;
+        height: 3em;
+        position: absolute;
+        top: 339em;
+    }
+    #copyright {
+        color: white;
+        font-size: 13px;
+        position: absolute;
+        left: 9em;
+        top: 0em;
+    }
+}
+
+@media only screen and (min-width: 768px) and (max-width:992px) {
+    #sml {
+        position: relative;
+        left: 19em;
+    }
+    .counter-box {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .counter {
+        height: 56em;
+    }
+    .first,
+    .second,
+    .third,
+    .fourth {
+        margin: 25px 5px;
+        box-sizing: border-box;
+        width: 50%;
+    }
+    .dinner,
+    .medimg,
+    .fam,
+    .edu {
+        position: relative;
+        left: 12em;
+    }
+    #first,
+    #third {
+        position: relative;
+        left: 4em;
+        font-size: 28pt;
+    }
+    #second {
+        position: relative;
+        left: 4.5em;
+        font-size: 28pt;
+    }
+    #fourth {
+        position: relative;
+        left: 2em;
+        font-size: 28pt;
+    }
+    .join,
+    .joined,
+    .combine,
+    .combined {
+        margin-left: 5em;
+    }
+    .navbar-light .navbar-toggler-icon {
+        position: relative;
+        left: 0em;
+    }
+    .navbar-light .navbar-toggler {
+        position: relative;
+        left: 19em;
+    }
+    .what-we-sec {
+        background-color: whitesmoke;
+        position: absolute;
+        top: 143em;
+        height: 54em;
+        width: 100%;
+        /* border: 2px solid red; */
+        padding: 10px 5px 6px 10px;
+    }
+    .heading {
+        position: absolute;
+        left: 16em;
+        top: 3em;
+    }
+    img#small {
+        position: absolute;
+        left: 27em;
+    }
+    p#startline {
+        position: absolute;
+        left: 24em;
+    }
+    p#endline {
+        position: absolute;
+        left: 30em;
+    }
+    #one {
+        position: absolute;
+        left: 6em;
+        width: 21em;
+    }
+    #two {
+        position: absolute;
+        left: 33em;
+        width: 21em;
+    }
+    #three {
+        position: absolute;
+        left: 6em;
+        top: 27em;
+        width: 21em;
+    }
+    #four {
+        position: absolute;
+        left: 33em;
+        top: 27em;
+        width: 21em;
+    }
+    #five {
+        position: absolute;
+        left: 6em;
+        top: 40em;
+        width: 21em;
+    }
+    #six {
+        position: absolute;
+        left: 33em;
+        top: 40em;
+        width: 21em;
+    }
+    /* MISSIONS AND UPCOMING PROJECTS */
+    .half {
+        /* border: 2px solid red; */
+        width: 100%;
+        position: absolute;
+        top: 196em;
+        height: 41em;
+        padding: 10px 5px 6px 10px;
+    }
+    .mission {
+        position: absolute;
+        left: 8em;
+        font-size: 28px;
+    }
+    p.endlines {
+        position: absolute;
+        left: 14em;
+        top: 6em;
+    }
+    .one {
+        position: absolute;
+        left: 2em;
+        width: 20em;
+    }
+    .two {
+        position: absolute;
+        width: 20em;
+        top: 8em;
+        left: 30em;
+    }
+    .three {
+        position: absolute;
+        width: 20em;
+        top: 14em;
+        left: 2em;
+    }
+    .four {
+        position: absolute;
+        width: 20em;
+        top: 14em;
+        left: 30em;
+    }
+    h4.heart {
+        position: absolute;
+        top: 1em;
+        left: 4em;
+        font-size: 23px;
+    }
+    h4.house {
+        position: absolute;
+        top: 1em;
+        left: 4em;
+        font-size: 23px;
+    }
+    h4.it {
+        position: absolute;
+        top: 1em;
+        left: 4em;
+        font-size: 23px;
+    }
+    h4.thar {
+        position: absolute;
+        top: 1em;
+        left: 4em;
+        font-size: 23px;
+    }
+    h3.up {
+        font-size: 3rem;
+        position: absolute;
+        top: 7em;
+        left: 4em;
+    }
+    p.lines {
+        position: absolute;
+        top: 25em;
+        left: 12em;
+    }
+    p.lightline {
+        position: absolute;
+        top: 25em;
+        left: 15em;
+    }
+    #half {
+        width: 40%;
+        /* border: 2px solid purple; */
+        position: relative;
+        top: 80em;
+        left: 12em;
+    }
+    /* IMAGE GALLERY */
+    #imggal {
+        /* border: 2px solid rgb(119, 75, 75); */
+        background-color: white;
+    }
+    #combine {
+        height: 37em;
+        position: absolute;
+        top: 237em;
+        left: 0em;
+        /* border: 1px solid violet; */
+    }
+    #img {
+        position: absolute;
+        top: 1em;
+        left: 7em;
+    }
+    #gal {
+        position: absolute;
+        top: 1em;
+        left: 10.5em;
+    }
+    p#begline {
+        position: absolute;
+        top: 9em;
+        left: 23em;
+    }
+    p#lastline {
+        position: absolute;
+        top: 9em;
+        left: 30em;
+    }
+    img#pic {
+        position: absolute;
+        top: 8em;
+        left: 26em;
+    }
+    .rashan {
+        position: relative;
+        top: 0em;
+        left: 0%;
+    }
+    .food {
+        position: relative;
+        top: 0em;
+        left: 6%;
+    }
+    .hazrat {
+        position: absolute;
+        top: 0em;
+        left: 68%;
+    }
+    .food2 {
+        position: absolute;
+        top: 12em;
+        left: 17%;
+    }
+    .hazrat2 {
+        position: absolute;
+        top: 12em;
+        left: 50%;
+    }
+    /* BLACK BOX */
+    .blackcontainer {
+        background-color: #25272E;
+        /* border: 1px solid green; */
+        width: 100%;
+        height: 41em;
+        position: absolute;
+        top: 274em;
+    }
+    .head {
+        width: 100%;
+        left: 13em;
+        margin: 0px -126px;
+        /* border: 1px solid yellow; */
+    }
+    #links {
+        position: relative;
+        top: 19em;
+        left: -28em;
+    }
+    p.lightlines {
+        position: relative;
+        left: -28em;
+        top: 18.5em;
+    }
+    p.endli {
+        position: relative;
+        left: -31em;
+        top: 21em;
+    }
+    .connect {
+        position: absolute;
+        top: 34em;
+        left: 3em;
+        width: 39%;
+        height: 6em;
+    }
+    #connect {
+        color: white;
+        font-size: 18px;
+        font-family: 'Times New Roman', Times, serif;
+        position: absolute;
+        top: -1em;
+        left: 1em;
+    }
+    a#facebook {
+        position: absolute;
+        left: 2em;
+        top: 3em;
+        /* background-color: royalblue; */
+    }
+    a#twite {
+        position: absolute;
+        left: 4em;
+        top: 3em;
+        /* background-color: royalblue; */
+    }
+    a {
+        cursor: pointer;
+    }
+    a#instagram {
+        position: absolute;
+        left: 6em;
+        top: 3em;
+        /* background-color: royalblue; */
+    }
+    a#yt {
+        position: absolute;
+        left: 8em;
+        top: 3em;
+        /* background-color: royalblue; */
+    }
+    /* COPYRIGHT */
+    .lastbox {
+        /* border: 1px solid red; */
+        background-color: royalblue;
+        width: 100%;
+        height: 3em;
+        position: absolute;
+        top: 315em;
+    }
+    #copyright {
+        color: white;
+        font-size: 13px;
+        position: absolute;
+        left: 9em;
+        top: 0em;
+    }
+}
+
+@media only screen and (min-width: 992px) and (max-width:1200px) {
+    #sml {
+        position: relative;
+        left: 26em;
+    }
+    .counter-box {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .counter {
+        height: 56em;
+    }
+    .first,
+    .second,
+    .third,
+    .fourth {
+        margin: 25px 5px;
+        box-sizing: border-box;
+        width: 50%;
+    }
+    .what-we-sec {
+        background-color: whitesmoke;
+        position: absolute;
+        top: 139em;
+        height: 42em;
+        width: 100%;
+        /* border: 2px solid red; */
+        padding: 10px 5px 6px 10px;
+    }
+    .heading {
+        position: absolute;
+        left: 19em;
+        top: 3em;
+    }
+    img#small {
+        position: absolute;
+        left: 31em;
+    }
+    p#startline {
+        position: absolute;
+        left: 28em;
+    }
+    p#endline {
+        position: absolute;
+        left: 34em;
+    }
+    #one {
+        position: absolute;
+        left: 1em;
+        width: 21em;
+    }
+    #two {
+        position: absolute;
+        left: 24em;
+        width: 21em;
+    }
+    #three {
+        position: absolute;
+        left: 47em;
+        top: 14em;
+        width: 21em;
+    }
+    #four {
+        position: absolute;
+        left: 1em;
+        top: 28em;
+        width: 21em;
+    }
+    #five {
+        position: absolute;
+        left: 24em;
+        width: 21em;
+        top: 28em;
+    }
+    #six {
+        position: absolute;
+        left: 47em;
+        top: 28em;
+        width: 21em;
+    }
+    /* MISSIONS AND UPCOMING PROJECTS */
+    .half {
+        /* border: 2px solid red; */
+        width: 100%;
+        position: absolute;
+        top: 181em;
+        height: 46em;
+        padding: 10px 5px 6px 10px;
+    }
+    .mission {
+        position: absolute;
+        left: 8em;
+        font-size: 33px;
+    }
+    p.endlines {
+        position: absolute;
+        left: 17em;
+        top: 6em;
+    }
+    .one {
+        position: absolute;
+        left: 6em;
+        width: 20em;
+        top: 10em;
+    }
+    .two {
+        position: absolute;
+        width: 20em;
+        top: 10em;
+        left: 33em;
+    }
+    .three {
+        position: absolute;
+        left: 6em;
+        width: 20em;
+        top: 17em;
+    }
+    .four {
+        position: absolute;
+        width: 20em;
+        top: 17em;
+        left: 33em;
+    }
+    h4.heart {
+        position: absolute;
+        top: 1em;
+        left: 4em;
+        font-size: 23px;
+    }
+    h4.house {
+        position: absolute;
+        top: 1em;
+        left: 4em;
+        font-size: 23px;
+    }
+    h4.it {
+        position: absolute;
+        top: 1em;
+        left: 4em;
+        font-size: 23px;
+    }
+    h4.thar {
+        position: absolute;
+        top: 1em;
+        left: 4em;
+        font-size: 23px;
+    }
+    h3.up {
+        font-size: 3rem;
+        position: absolute;
+        top: 8em;
+        left: 6em;
+    }
+    p.lines {
+        position: absolute;
+        top: 30em;
+        left: 19em;
+    }
+    p.lightline {
+        position: absolute;
+        top: 30em;
+        left: 23em;
+    }
+    #half {
+        width: 40%;
+        /* border: 2px solid purple; */
+        position: relative;
+        top: 19em;
+        left: 16em;
+    }
+    /* IMAGE GALLERY */
+    #imggal {
+        border: 2px solid rgb(119, 75, 75);
+        background-color: white;
+    }
+    #combine {
+        height: 37em;
+        position: absolute;
+        top: 229em;
+        width: 100%;
+        left: 0em;
+        /* border: 1px solid violet; */
+    }
+    #img {
+        position: absolute;
+        top: 1em;
+        left: 7em;
+        font-size: 34pt;
+    }
+    #gal {
+        position: absolute;
+        top: 1em;
+        left: 10.5em;
+        font-size: 34pt;
+    }
+    p#begline {
+        position: absolute;
+        top: 9em;
+        left: 25em;
+    }
+    p#lastline {
+        position: absolute;
+        top: 10em;
+        left: 32em;
+    }
+    img#pic {
+        position: absolute;
+        top: 10em;
+        left: 28em;
+    }
+    .rashan {
+        position: relative;
+        top: 0em;
+        left: 0%;
+    }
+    .food {
+        position: relative;
+        top: 0em;
+        left: 9%;
+    }
+    .hazrat {
+        position: absolute;
+        top: 0em;
+        left: 66%;
+    }
+    .food2 {
+        position: absolute;
+        top: 12em;
+        left: 17%;
+    }
+    .hazrat2 {
+        position: absolute;
+        top: 12em;
+        left: 50%;
+    }
+    /* BLACK BOX */
+    .blackcontainer {
+        background-color: #25272E;
+        border: 1px solid green;
+        width: 100%;
+        height: 41em;
+        position: absolute;
+        top: 274em;
+    }
+    .head {
+        width: 100%;
+        margin: 0px -126px;
+        left: 17em;
+        /* border: 1px solid yellow; */
+    }
+    .links {
+        position: absolute;
+        top: 7em;
+        left: 35em;
+        /* border: 1px solid red; */
+        width: 30%;
+        height: 5em;
+    }
+    #links {
+        position: relative;
+        top: 0em;
+        left: 0em;
+    }
+    p.lightlines {
+        position: relative;
+        left: 3em;
+        top: -2.5em;
+    }
+    p.endli {
+        position: relative;
+        left: 0em;
+        top: 0em;
+    }
+    .connect {
+        position: absolute;
+        top: 34em;
+        left: 3em;
+        width: 39%;
+        height: 6em;
+    }
+    #connect {
+        color: white;
+        font-size: 18px;
+        font-family: 'Times New Roman', Times, serif;
+        position: absolute;
+        top: -1em;
+        left: 1em;
+    }
+    a#facebook {
+        position: absolute;
+        left: 2em;
+        top: 3em;
+        /* background-color: royalblue; */
+    }
+    a#twite {
+        position: absolute;
+        left: 4em;
+        top: 3em;
+        /* background-color: royalblue; */
+    }
+    a {
+        cursor: pointer;
+    }
+    a#instagram {
+        position: absolute;
+        left: 6em;
+        top: 3em;
+        /* background-color: royalblue; */
+    }
+    a#yt {
+        position: absolute;
+        left: 8em;
+        top: 3em;
+        /* background-color: royalblue; */
+    }
+    /* COPYRIGHT */
+    .lastbox {
+        /* border: 1px solid red; */
+        background-color: royalblue;
+        width: 100%;
+        height: 3em;
+        position: absolute;
+        top: 314em;
+    }
+    #copyright {
+        color: white;
+        font-size: 13px;
+        position: absolute;
+        left: 9em;
+        top: 0em;
+    }
+}
